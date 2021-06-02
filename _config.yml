@@ -33,7 +33,7 @@ author: deck4106
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: psychiana_example_sheet
+metadata: fishing_metadata
 
 ##########
 # GOOGLE SERVICES [optional!]
